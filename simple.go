@@ -1,6 +1,6 @@
 package main
 
-//TestCC always returns 1
+//Simple always returns 1
 func Simple() int {
 	return 1
 }
